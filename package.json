@@ -11,7 +11,8 @@
     "url": "https://github.com/ionic-team/docusaurus-plugin-tag-manager.git"
   },
   "scripts": {
-    "shipit": "npx np"
+    "shipit": "npx np",
+    "test": "echo 'TODO: Figure out how to test this'"
   },
   "license": "MIT",
   "dependencies": {
