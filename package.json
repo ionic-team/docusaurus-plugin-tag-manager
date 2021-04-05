@@ -16,7 +16,7 @@
   },
   "license": "MIT",
   "peerDependencies": {
-    "@docusaurus/core": "2.0.0-alpha.71",
+    "@docusaurus/core": "2.0.0-alpha.72",
     "react": "^16.8.4 || ^17.0.0",
     "react-dom": "^16.8.4 || ^17.0.0"
   },
