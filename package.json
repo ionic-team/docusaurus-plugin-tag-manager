@@ -1,6 +1,6 @@
 {
   "name": "@ionic-internal/docusaurus-plugin-tag-manager",
-  "version": "2.0.0",
+  "version": "2.0.1",
   "description": "Google Tag Manager plugin for Docusaurus.",
   "main": "index.js",
   "publishConfig": {
